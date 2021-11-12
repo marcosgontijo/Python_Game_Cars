@@ -16,7 +16,7 @@
 > All cars are generated randomly with different interval times, so that 3 cars don't appear at once, thus preventing the player from dodging the vehicles.
 > In the upper left corner, there is a timer, the more the time increases, the more the speeds of the cars increase, thus making gameplay difficult.
 
-###Como jogar ?
+### Como jogar ?
 + MOVER PARA ESQUERDA (A)
 + MOVER PARA BAIXO (S)
 + MOVER PARA DIREITA (D)
@@ -28,7 +28,7 @@
 + MOVER PARA CIMA (UP ARROW)
 
 
-###How to play ?
+### How to play ?
 + MOVE LEFT (A)
 + MOVE DOWN(S)
 + MOVE RIGHT (D)
