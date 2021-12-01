@@ -1,6 +1,6 @@
 <h1> Python Game Cars <h1>
 
->Status: Developing ✔️
+>Status: Developed ✔️
 
 ### Jogo criado na linguagem, Python, onde a diversão é basicamente desviar dos carros sem colidir, quanto mais tempo sobreviver no jogo, mais dificil ele fica. 🏁🏁
 
